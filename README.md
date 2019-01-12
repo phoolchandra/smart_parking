@@ -1,5 +1,5 @@
 # Project Title : Smart praking
-##project vedio link for demo<br>
+## project vedio link for demo<br>
 https://drive.google.com/file/d/1NBdoWs9Z9bVtt03Vy28Yc97eod0WfDYR/view?usp=sharing<br>
 
 ### Salient Features
