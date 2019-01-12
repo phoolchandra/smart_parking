@@ -1,8 +1,8 @@
 # Project Title : Smart praking
 
-     this project give the solution how you can solve the parking problem eaily <br>
-     Nowdays, we know that people have to face a lot of problem in big cities to park their<br>
-     vehicles like first find the empty space for parking, security of vehicles and it consumes <br>
+     this project give the solution how you can solve the parking problem eaily 
+     Nowdays, we know that people have to face a lot of problem in big cities to park their
+     vehicles like first find the empty space for parking, security of vehicles and it consumes 
      a lot of time. Our project is a solution for parking.
 
 ## project vedio link for demo<br>
@@ -26,12 +26,12 @@ https://drive.google.com/file/d/1NBdoWs9Z9bVtt03Vy28Yc97eod0WfDYR/view?usp=shari
 
 #### Module_1- Folder Containing code for Lock system
 
-Libaries to be included 
+Libaries to be included <br>
 
-1.LiquidCrystal.h  - For LCD Display
-2.Keypad.h         - For Keypad
-3.LowPower.h        - For arduino sleep
-
+1.LiquidCrystal.h  - For LCD Display <br>
+2.Keypad.h         - For Keypad <br>
+3.LowPower.h        - For arduino sleep <br>
+ 
 # For Module_2 code - Containing street light control, Empty slot display 
 1.Wire.h  <br>
 2.Digital_Light_TSL2561.h  <br>
